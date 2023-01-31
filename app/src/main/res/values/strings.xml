@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">uni1</string>
+    <string name="defaultText">text</string>
+    <string name="defaultTitle">title</string>
+    <string-array name="weekdays">
+        <item>ПН</item>
+        <item>ВТ</item>
+        <item>СР</item>
+        <item>ЧТ</item>
+        <item>ПТ</item>
+        <item>СБ</item>
+        <item>ВС</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="input_note">Input note</string>
+    <string name="update_note">update note</string>
+    <string name="add_note">add note</string>
+</resources>
